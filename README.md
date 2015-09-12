@@ -1,0 +1,2 @@
+# Openmind
+Learn python
